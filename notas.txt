@@ -1,3 +1,5 @@
+https://github.com/ecayeta/Parcial1
+
 Laboratorio-Programacion
 
 Las reglas están declaradas como un array de objetos, cada uno con una descripción y una función que valida la regla.
